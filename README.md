@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualization
 
-This project visualizes various sorting algorithms using Pygame. It helps understand how different sorting algorithms work by providing a visual representation of the sorting process.
+This project visualizes various sorting algorithms using Pygame. It helps to understand how different sorting algorithms work by providing a visual representation of the sorting process.
 <img width="795" alt="image" src="https://github.com/EgemenErin/Sorting_Algorithm_Visualizer/assets/113554575/321b6a5e-c5f1-431a-80c9-cfd0168204c5">
 <img width="793" alt="image" src="https://github.com/EgemenErin/Sorting_Algorithm_Visualizer/assets/113554575/4b068e0d-7043-4706-bf1d-b545fd8fa7c8">
 <img width="787" alt="image" src="https://github.com/EgemenErin/Sorting_Algorithm_Visualizer/assets/113554575/ef3c4cdd-7f4a-41aa-9eda-d51419fd384d">
